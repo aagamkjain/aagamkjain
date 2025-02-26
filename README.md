@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aagamkjain
-- 👀 I’m interested in web development and cybersecurity
-- 🌱 I’m currently learning c,web dev
-- 💞️ I’m looking to collaborate on projects related to web dev
+- 👀 I’m interested in web development and cloud computing
+- 🌱 I’m proficent in c,python,js and learning c++ java
+- 💞️ I’m looking to collaborate on projects related to webdev,cloud computing
 - 📫 How to reach me hit me up in my inbox
 - 😄 Pronouns: none
 - ⚡ Fun fact: i am ryan gosling
